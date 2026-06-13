@@ -9,5 +9,3 @@ def get_choices():
 
 choices = get_choices()
 print(choices)   
-#dictionary is used to store value in key value pair
-dict={"name": "baue" , "color":choices}
